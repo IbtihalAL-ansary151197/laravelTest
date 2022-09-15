@@ -17,11 +17,13 @@
       <div class="wrapper"> 
        
 
-        @include('layouts.Nav')
+        @include('layouts.Nav') 
         @include('layouts.sidebar')  
 
         <div class="content-wrapper"> 
         @yield('content')
+        @yield('categoryForm')
+        @yield('categoryTables')
         </div>
               @include('layouts.footer')
  

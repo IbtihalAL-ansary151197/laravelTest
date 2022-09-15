@@ -13,7 +13,6 @@
       </li>
     </ul>
 
-<h1 class="">Welcome To Page User</h1>
 <x-slot name="content">
                     
 

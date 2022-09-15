@@ -8,7 +8,7 @@
 </head>
 <body>
   
-    <h1 class="">welcome to admin</h1>
+    <h1 class="">welcome to user</h1>
 
 </body>
 </html>
